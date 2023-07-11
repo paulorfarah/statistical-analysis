@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from roses.statistical_test.kruskal_wallis import kruskal_wallis
-from roses.statistical_test.wilcoxon import willcoxon
 from roses.effect_size import vargha_delaney
 
 # rpy2
